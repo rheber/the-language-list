@@ -20,7 +20,9 @@ Pull requests welcome.
 |[opalang](https://github.com/MLstate/opalang/)|The Opa Language for Web Application Development|
 |[pen](https://github.com/pen-lang/pen)|The programming language for scalable development|
 |[ponyc](https://github.com/ponylang/ponyc)|Pony is an open-source, actor-model, capabilities-secure, high performance programming language|
+|[purescript](https://github.com/purescript/purescript)|A strongly-typed language that compiles to JavaScript|
 |[pyret-lang](https://github.com/brownplt/pyret-lang)|The Pyret language.|
+|[reason](https://github.com/reasonml/reason)|Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems|
 |[red](https://github.com/red/red)|Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!|
 |[v](https://github.com/vlang/v)|Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io|
 |[zig](https://github.com/ziglang/zig)|General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.|
