@@ -14,6 +14,7 @@ Pull requests welcome.
 |[chapel](https://github.com/chapel-lang/chapel)|a Productive Parallel Programming Language|
 |[elvish](https://github.com/elves/elvish)|Elvish = Expressive Programming Language + Versatile Interactive Shell|
 |[flix](https://github.com/flix/flix)|The Flix Programming Language|
+|[haxe](https://github.com/HaxeFoundation/haxe)|Haxe - The Cross-Platform Toolkit|
 |[lean4](https://github.com/leanprover/lean4)|Lean 4 programming language and theorem prover|
 |[ngs](https://github.com/ngs-lang/ngs)|Next Generation Shell (NGS)|
 |[oil](https://github.com/oilshell/oil)|Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime. It's also for Python and JavaScript users who avoid shell!|
@@ -24,5 +25,6 @@ Pull requests welcome.
 |[pyret-lang](https://github.com/brownplt/pyret-lang)|The Pyret language.|
 |[reason](https://github.com/reasonml/reason)|Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems|
 |[red](https://github.com/red/red)|Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!|
+|[urweb](https://github.com/urweb/urweb)|The Ur/Web programming language|
 |[v](https://github.com/vlang/v)|Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io|
 |[zig](https://github.com/ziglang/zig)|General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.|
