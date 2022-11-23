@@ -32,6 +32,7 @@ Pull requests welcome.
 |[carbon-lang](https://github.com/carbon-language/carbon-lang)|Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)|
 |[chapel](https://github.com/chapel-lang/chapel)|a Productive Parallel Programming Language|
 |[ciao](https://github.com/ciao-lang/ciao)|Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.|
+|[dark](https://github.com/darklang/dark)|Client, backend, and services for Dark: https://darklang.com|
 |[datafun](https://github.com/rntz/datafun)|Research on integrating datalog & lambda calculus via monotonicity types|
 |[flix](https://github.com/flix/flix)|The Flix Programming Language|
 |[grace](https://github.com/Gabriel439/grace)|A ready-to-fork interpreted functional language with type inference|
@@ -52,6 +53,7 @@ Pull requests welcome.
 |[roc](https://github.com/roc-lang/roc)|Roc is a language for making delightful software.|
 |[skip](https://github.com/skiplang/skip)|A programming language to skip the things you have already computed|
 |[tao](https://github.com/zesterer/tao)|A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.|
+|[unison](https://github.com/unisonweb/unison)|A friendly programming language from the future|
 |[urweb](https://github.com/urweb/urweb)|The Ur/Web programming language|
 |[v](https://github.com/vlang/v)|Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io|
 |[wasp](https://github.com/wasp-lang/wasp)|A programming language that understands what a web app is.|
