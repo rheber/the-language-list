@@ -42,6 +42,7 @@ Pull requests welcome.
 |[janet](https://github.com/janet-lang/janet)|A dynamic language and bytecode vm|
 |[koka](https://github.com/koka-lang/koka)|Koka language compiler and interpreter|
 |[lean4](https://github.com/leanprover/lean4)|Lean 4 programming language and theorem prover|
+|[lobster](https://github.com/aardappel/lobster)|The Lobster Programming Language|
 |[oak](https://github.com/thesephist/oak)|An expressive, simple, dynamic programming language.|
 |[opalang](https://github.com/MLstate/opalang/)|The Opa Language for Web Application Development|
 |[pen](https://github.com/pen-lang/pen)|The programming language for scalable development|
