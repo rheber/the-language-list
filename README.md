@@ -26,6 +26,7 @@ Pull requests welcome.
 |[Kind](https://github.com/uwu-tech/Kind)|A modern proof language|
 |[Nim](https://github.com/nim-lang/Nim)|Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).|
 |[Odin](https://github.com/odin-lang/Odin)|Odin Programming Language|
+|[P](https://github.com/p-org/P)|The P programming language.|
 |[Senegal](https://github.com/SenegalLang/Senegal)|Senegal programming language|
 |[abs](https://github.com/abs-lang/abs)|Home of the ABS programming language: the joy of shell scripting.|
 |[bagel](https://github.com/brundonsmith/bagel)|A programming language designed for JavaScript programmers to write reactive UIs, using a paradigm where stateful procedures and pure functions are mutually exclusive categories.|
@@ -43,6 +44,7 @@ Pull requests welcome.
 |[koka](https://github.com/koka-lang/koka)|Koka language compiler and interpreter|
 |[lean4](https://github.com/leanprover/lean4)|Lean 4 programming language and theorem prover|
 |[lobster](https://github.com/aardappel/lobster)|The Lobster Programming Language|
+|[noulith](https://github.com/betaveros/noulith)|*slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it|
 |[oak](https://github.com/thesephist/oak)|An expressive, simple, dynamic programming language.|
 |[opalang](https://github.com/MLstate/opalang/)|The Opa Language for Web Application Development|
 |[pen](https://github.com/pen-lang/pen)|The programming language for scalable development|
