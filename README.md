@@ -28,6 +28,7 @@ Pull requests welcome.
 |[Odin](https://github.com/odin-lang/Odin)|Odin Programming Language|
 |[P](https://github.com/p-org/P)|The P programming language.|
 |[Senegal](https://github.com/SenegalLang/Senegal)|Senegal programming language|
+|[Vale](https://github.com/ValeLang/Vale)|Compiler for the Vale programming language - http://vale.dev/|
 |[abs](https://github.com/abs-lang/abs)|Home of the ABS programming language: the joy of shell scripting.|
 |[bagel](https://github.com/brundonsmith/bagel)|A programming language designed for JavaScript programmers to write reactive UIs, using a paradigm where stateful procedures and pure functions are mutually exclusive categories.|
 |[carbon-lang](https://github.com/carbon-language/carbon-lang)|Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)|
@@ -59,6 +60,7 @@ Pull requests welcome.
 |[unison](https://github.com/unisonweb/unison)|A friendly programming language from the future|
 |[urweb](https://github.com/urweb/urweb)|The Ur/Web programming language|
 |[v](https://github.com/vlang/v)|Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io|
+|[val](https://github.com/val-lang/val)|The val compiler|
 |[wasp](https://github.com/wasp-lang/wasp)|A programming language that understands what a web app is.|
 |[wren](https://github.com/wren-lang/wren)|The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.|
 |[zig](https://github.com/ziglang/zig)|General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.|
