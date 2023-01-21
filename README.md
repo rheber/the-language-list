@@ -55,6 +55,7 @@ Pull requests welcome.
 |[reason](https://github.com/reasonml/reason)|Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems|
 |[red](https://github.com/red/red)|Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!|
 |[roc](https://github.com/roc-lang/roc)|Roc is a language for making delightful software.|
+|[scopes](https://hg.sr.ht/~duangle/scopes)|The Scopes Programming Language & Compiler Infrastructure|
 |[skip](https://github.com/skiplang/skip)|A programming language to skip the things you have already computed|
 |[tao](https://github.com/zesterer/tao)|A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.|
 |[unison](https://github.com/unisonweb/unison)|A friendly programming language from the future|
