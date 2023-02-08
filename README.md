@@ -31,6 +31,7 @@ Pull requests welcome.
 |[Vale](https://github.com/ValeLang/Vale)|Compiler for the Vale programming language - http://vale.dev/|
 |[abs](https://github.com/abs-lang/abs)|Home of the ABS programming language: the joy of shell scripting.|
 |[bagel](https://github.com/brundonsmith/bagel)|A programming language designed for JavaScript programmers to write reactive UIs, using a paradigm where stateful procedures and pure functions are mutually exclusive categories.|
+|[ballerina-lang](https://github.com/ballerina-platform/ballerina-lang)|The Ballerina Programming Language|
 |[carbon-lang](https://github.com/carbon-language/carbon-lang)|Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)|
 |[chapel](https://github.com/chapel-lang/chapel)|a Productive Parallel Programming Language|
 |[ciao](https://github.com/ciao-lang/ciao)|Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.|
