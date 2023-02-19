@@ -15,6 +15,7 @@ Pull requests welcome.
 
 |Repository|Description|
 |-|-|
+|[cue](https://github.com/cue-lang/cue)|The new home of the CUE language! Validate and define text-based and dynamic configuration|
 |[dte](https://github.com/mvrozanti/dte)|date and time processing language|
 
 ## Programming Languages
@@ -39,6 +40,7 @@ Pull requests welcome.
 |[datafun](https://github.com/rntz/datafun)|Research on integrating datalog & lambda calculus via monotonicity types|
 |[flix](https://github.com/flix/flix)|The Flix Programming Language|
 |[grace](https://github.com/Gabriel439/grace)|A ready-to-fork interpreted functional language with type inference|
+|[grain](https://github.com/grain-lang/grain)|The Grain compiler toolchain and CLI. Home of the modern web staple. ear_of_rice|
 |[haxe](https://github.com/HaxeFoundation/haxe)|Haxe - The Cross-Platform Toolkit|
 |[inform](https://github.com/ganelson/inform)|The core software distribution for the Inform 7 programming language.|
 |[io](https://github.com/IoLanguage/io)|Io programming language. Inspired by Self, Smalltalk and LISP.|
