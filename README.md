@@ -30,6 +30,7 @@ Pull requests welcome.
 |[P](https://github.com/p-org/P)|The P programming language.|
 |[Senegal](https://github.com/SenegalLang/Senegal)|Senegal programming language|
 |[Vale](https://github.com/ValeLang/Vale)|Compiler for the Vale programming language - http://vale.dev/|
+|[Yaksha](https://github.com/YakshaLang/Yaksha)|Yaksha Programming Language (WIP)|
 |[abs](https://github.com/abs-lang/abs)|Home of the ABS programming language: the joy of shell scripting.|
 |[bagel](https://github.com/brundonsmith/bagel)|A programming language designed for JavaScript programmers to write reactive UIs, using a paradigm where stateful procedures and pure functions are mutually exclusive categories.|
 |[ballerina-lang](https://github.com/ballerina-platform/ballerina-lang)|The Ballerina Programming Language|
@@ -40,7 +41,7 @@ Pull requests welcome.
 |[datafun](https://github.com/rntz/datafun)|Research on integrating datalog & lambda calculus via monotonicity types|
 |[flix](https://github.com/flix/flix)|The Flix Programming Language|
 |[grace](https://github.com/Gabriel439/grace)|A ready-to-fork interpreted functional language with type inference|
-|[grain](https://github.com/grain-lang/grain)|The Grain compiler toolchain and CLI. Home of the modern web staple. ear_of_rice|
+|[grain](https://github.com/grain-lang/grain)|The Grain compiler toolchain and CLI. Home of the modern web staple.|
 |[haxe](https://github.com/HaxeFoundation/haxe)|Haxe - The Cross-Platform Toolkit|
 |[inform](https://github.com/ganelson/inform)|The core software distribution for the Inform 7 programming language.|
 |[io](https://github.com/IoLanguage/io)|Io programming language. Inspired by Self, Smalltalk and LISP.|
