@@ -92,4 +92,5 @@ Pull requests welcome.
 |-|-|
 |[pantagruel](https://github.com/subsetpark/pantagruel)|A program specification language with a formal syntax and ad-hoc semantics.|
 |[smithy](https://github.com/awslabs/smithy)|Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.|
+|[taxilang](https://github.com/taxilang/taxilang)|Taxi is a language for describing APIs, data models, and how everything relates|
 
