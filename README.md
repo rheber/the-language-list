@@ -47,6 +47,7 @@ Pull requests welcome.
 |[haxe](https://github.com/HaxeFoundation/haxe)|Haxe - The Cross-Platform Toolkit|
 |[inform](https://github.com/ganelson/inform)|The core software distribution for the Inform 7 programming language.|
 |[io](https://github.com/IoLanguage/io)|Io programming language. Inspired by Self, Smalltalk and LISP.|
+|[jakt](https://github.com/SerenityOS/jakt)|The Jakt Programming Language|
 |[janet](https://github.com/janet-lang/janet)|A dynamic language and bytecode vm|
 |[koka](https://github.com/koka-lang/koka)|Koka language compiler and interpreter|
 |[lean4](https://github.com/leanprover/lean4)|Lean 4 programming language and theorem prover|
