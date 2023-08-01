@@ -41,6 +41,7 @@ Pull requests welcome.
 |[dafny](https://github.com/dafny-lang/dafny)|Dafny is a verification-aware programming language|
 |[dark](https://github.com/darklang/dark)|Client, backend, and services for Dark: https://darklang.com|
 |[datafun](https://github.com/rntz/datafun)|Research on integrating datalog & lambda calculus via monotonicity types|
+|[duckscript](https://github.com/sagiegurari/duckscript)|Simple, extendable and embeddable scripting language.|
 |[flix](https://github.com/flix/flix)|The Flix Programming Language|
 |[grace](https://github.com/Gabriel439/grace)|A ready-to-fork interpreted functional language with type inference|
 |[grain](https://github.com/grain-lang/grain)|The Grain compiler toolchain and CLI. Home of the modern web staple.|
