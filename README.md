@@ -38,6 +38,7 @@ Pull requests welcome.
 |[carbon-lang](https://github.com/carbon-language/carbon-lang)|Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)|
 |[chapel](https://github.com/chapel-lang/chapel)|a Productive Parallel Programming Language|
 |[ciao](https://github.com/ciao-lang/ciao)|Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.|
+|[crumb](https://github.com/liam-ilan/crumb)|The Crumb Programming Language|
 |[dafny](https://github.com/dafny-lang/dafny)|Dafny is a verification-aware programming language|
 |[dark](https://github.com/darklang/dark)|Client, backend, and services for Dark: https://darklang.com|
 |[datafun](https://github.com/rntz/datafun)|Research on integrating datalog & lambda calculus via monotonicity types|
