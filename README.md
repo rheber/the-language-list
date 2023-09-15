@@ -22,6 +22,7 @@ Pull requests welcome.
 
 |Repository|Description|
 |-|-|
+|[BQN](https://github.com/mlochbaum/BQN)|An APL-like programming language. Self-hosted!|
 |[Halide](https://github.com/halide/Halide)|a language for fast, portable data-parallel computation|
 |[Idris2](https://github.com/idris-lang/Idris2)|A purely functional programming language with first class types|
 |[Kind](https://github.com/uwu-tech/Kind)|A modern proof language|
@@ -29,6 +30,7 @@ Pull requests welcome.
 |[Odin](https://github.com/odin-lang/Odin)|Odin Programming Language|
 |[P](https://github.com/p-org/P)|The P programming language.|
 |[Senegal](https://github.com/SenegalLang/Senegal)|Senegal programming language|
+|[Throbol](https://gitlab.com/tlb/throbol)||
 |[Vale](https://github.com/ValeLang/Vale)|Compiler for the Vale programming language - http://vale.dev/|
 |[Yaksha](https://github.com/YakshaLang/Yaksha)|Yaksha Programming Language (WIP)|
 |[abs](https://github.com/abs-lang/abs)|Home of the ABS programming language: the joy of shell scripting.|
@@ -65,6 +67,7 @@ Pull requests welcome.
 |[red](https://github.com/red/red)|Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!|
 |[roc](https://github.com/roc-lang/roc)|Roc is a language for making delightful software.|
 |[scopes](https://hg.sr.ht/~duangle/scopes)|The Scopes Programming Language & Compiler Infrastructure|
+|[shardscript](https://github.com/shardscript/shardscript)|A language for cloud functions|
 |[skip](https://github.com/skiplang/skip)|A programming language to skip the things you have already computed|
 |[tao](https://github.com/zesterer/tao)|A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.|
 |[unison](https://github.com/unisonweb/unison)|A friendly programming language from the future|
