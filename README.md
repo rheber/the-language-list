@@ -70,12 +70,14 @@ Pull requests welcome.
 |[shardscript](https://github.com/shardscript/shardscript)|A language for cloud functions|
 |[skip](https://github.com/skiplang/skip)|A programming language to skip the things you have already computed|
 |[tao](https://github.com/zesterer/tao)|A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.|
+|[uiua](https://github.com/uiua-lang/uiua)|A stack-based array programming language|
 |[unison](https://github.com/unisonweb/unison)|A friendly programming language from the future|
 |[urweb](https://github.com/urweb/urweb)|The Ur/Web programming language|
 |[v](https://github.com/vlang/v)|Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io|
 |[val](https://github.com/val-lang/val)|The val compiler|
 |[wasp](https://github.com/wasp-lang/wasp)|A programming language that understands what a web app is.|
 |[wren](https://github.com/wren-lang/wren)|The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.|
+|[xs](https://github.com/smabie/xs)|concatenative array language inspired by kdb/+q|
 |[zig](https://github.com/ziglang/zig)|General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.|
 
 ## Query Languages
