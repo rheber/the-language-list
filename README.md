@@ -44,8 +44,10 @@ Pull requests welcome.
 |[dafny](https://github.com/dafny-lang/dafny)|Dafny is a verification-aware programming language|
 |[dark](https://github.com/darklang/dark)|Client, backend, and services for Dark: https://darklang.com|
 |[datafun](https://github.com/rntz/datafun)|Research on integrating datalog & lambda calculus via monotonicity types|
+|[dex-lang](https://github.com/google-research/dex-lang)|Research language for array processing in the Haskell/ML family|
 |[duckscript](https://github.com/sagiegurari/duckscript)|Simple, extendable and embeddable scripting language.|
 |[flix](https://github.com/flix/flix)|The Flix Programming Language|
+|[gleam](https://github.com/gleam-lang/gleam)|A friendly language for building type-safe, scalable systems!|
 |[grace](https://github.com/Gabriel439/grace)|A ready-to-fork interpreted functional language with type inference|
 |[grain](https://github.com/grain-lang/grain)|The Grain compiler toolchain and CLI. Home of the modern web staple.|
 |[haxe](https://github.com/HaxeFoundation/haxe)|Haxe - The Cross-Platform Toolkit|
@@ -56,6 +58,7 @@ Pull requests welcome.
 |[koka](https://github.com/koka-lang/koka)|Koka language compiler and interpreter|
 |[lean4](https://github.com/leanprover/lean4)|Lean 4 programming language and theorem prover|
 |[lobster](https://github.com/aardappel/lobster)|The Lobster Programming Language|
+|[mercury](https://github.com/Mercury-Language/mercury)|The Mercury logic programming system.|
 |[noulith](https://github.com/betaveros/noulith)|*slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it|
 |[oak](https://github.com/thesephist/oak)|An expressive, simple, dynamic programming language.|
 |[opalang](https://github.com/MLstate/opalang/)|The Opa Language for Web Application Development|
