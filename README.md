@@ -32,6 +32,7 @@ Pull requests welcome.
 |[Senegal](https://github.com/SenegalLang/Senegal)|Senegal programming language|
 |[Throbol](https://gitlab.com/tlb/throbol)||
 |[Vale](https://github.com/ValeLang/Vale)|Compiler for the Vale programming language - http://vale.dev/|
+|[Vinegar](https://codeberg.org/catseye/Vinegar)|A semi-concatenative language where every operation can fail https://catseye.tc/node/Vinegar|
 |[Yaksha](https://github.com/YakshaLang/Yaksha)|Yaksha Programming Language (WIP)|
 |[abs](https://github.com/abs-lang/abs)|Home of the ABS programming language: the joy of shell scripting.|
 |[austral](https://github.com/austral/austral)|Systems language with linear types and capability-based security.|
@@ -51,10 +52,13 @@ Pull requests welcome.
 |[grace](https://github.com/Gabriel439/grace)|A ready-to-fork interpreted functional language with type inference|
 |[grain](https://github.com/grain-lang/grain)|The Grain compiler toolchain and CLI. Home of the modern web staple.|
 |[haxe](https://github.com/HaxeFoundation/haxe)|Haxe - The Cross-Platform Toolkit|
+|[impala](https://github.com/AnyDSL/impala)|An imperative and functional programming language|
 |[inform](https://github.com/ganelson/inform)|The core software distribution for the Inform 7 programming language.|
+|[inko](https://github.com/inko-lang/inko)|A language for building concurrent software with confidence|
 |[io](https://github.com/IoLanguage/io)|Io programming language. Inspired by Self, Smalltalk and LISP.|
 |[jakt](https://github.com/SerenityOS/jakt)|The Jakt Programming Language|
 |[janet](https://github.com/janet-lang/janet)|A dynamic language and bytecode vm|
+|[kitten](https://github.com/evincarofautumn/kitten)|A statically typed concatenative systems programming language.|
 |[koka](https://github.com/koka-lang/koka)|Koka language compiler and interpreter|
 |[lean4](https://github.com/leanprover/lean4)|Lean 4 programming language and theorem prover|
 |[lobster](https://github.com/aardappel/lobster)|The Lobster Programming Language|
