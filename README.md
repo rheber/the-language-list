@@ -63,8 +63,10 @@ Pull requests welcome.
 |[lean4](https://github.com/leanprover/lean4)|Lean 4 programming language and theorem prover|
 |[lobster](https://github.com/aardappel/lobster)|The Lobster Programming Language|
 |[mercury](https://github.com/Mercury-Language/mercury)|The Mercury logic programming system.|
+|[neat](https://github.com/Neat-Lang/neat)|The Neat Language compiler. Early beta?|
 |[noulith](https://github.com/betaveros/noulith)|*slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it|
 |[oak](https://github.com/thesephist/oak)|An expressive, simple, dynamic programming language.|
+|[onyx](https://github.com/onyx-lang/onyx)|A modern language for WebAssembly.|
 |[opalang](https://github.com/MLstate/opalang/)|The Opa Language for Web Application Development|
 |[pen](https://github.com/pen-lang/pen)|The programming language for scalable development|
 |[ponyc](https://github.com/ponylang/ponyc)|Pony is an open-source, actor-model, capabilities-secure, high performance programming language|
@@ -92,6 +94,7 @@ Pull requests welcome.
 |Repository|Description|
 |-|-|
 |[htmlq](https://github.com/mgdm/htmlq)|Like jq, but for HTML.|
+|[logica](https://github.com/EvgSkv/logica)|Logica is a logic programming language that compiles to SQL. It runs on Google BigQuery, PostgreSQL and SQLite.|
 |[malloy](https://github.com/looker-open-source/malloy)|Malloy is an experimental language for describing data relationships and transformations.|
 |[prql](https://github.com/prql/prql)|PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement|
 
