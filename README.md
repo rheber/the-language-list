@@ -35,12 +35,14 @@ Pull requests welcome.
 |[Vinegar](https://codeberg.org/catseye/Vinegar)|A semi-concatenative language where every operation can fail https://catseye.tc/node/Vinegar|
 |[Yaksha](https://github.com/YakshaLang/Yaksha)|Yaksha Programming Language (WIP)|
 |[abs](https://github.com/abs-lang/abs)|Home of the ABS programming language: the joy of shell scripting.|
+|[ante](https://github.com/jfecher/ante)|A safe, easy systems language|
 |[austral](https://github.com/austral/austral)|Systems language with linear types and capability-based security.|
 |[bagel](https://github.com/brundonsmith/bagel)|A programming language designed for JavaScript programmers to write reactive UIs, using a paradigm where stateful procedures and pure functions are mutually exclusive categories.|
 |[ballerina-lang](https://github.com/ballerina-platform/ballerina-lang)|The Ballerina Programming Language|
 |[carbon-lang](https://github.com/carbon-language/carbon-lang)|Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)|
 |[chapel](https://github.com/chapel-lang/chapel)|a Productive Parallel Programming Language|
 |[ciao](https://github.com/ciao-lang/ciao)|Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.|
+|[crow](https://github.com/andy-hanson/crow)|Crow programming language|
 |[crumb](https://github.com/liam-ilan/crumb)|The Crumb Programming Language|
 |[dafny](https://github.com/dafny-lang/dafny)|Dafny is a verification-aware programming language|
 |[dark](https://github.com/darklang/dark)|Client, backend, and services for Dark: https://darklang.com|
@@ -63,6 +65,7 @@ Pull requests welcome.
 |[lean4](https://github.com/leanprover/lean4)|Lean 4 programming language and theorem prover|
 |[lobster](https://github.com/aardappel/lobster)|The Lobster Programming Language|
 |[mercury](https://github.com/Mercury-Language/mercury)|The Mercury logic programming system.|
+|[mun](https://github.com/mun-lang/mun)|Source code for the Mun language and runtime.|
 |[neat](https://github.com/Neat-Lang/neat)|The Neat Language compiler. Early beta?|
 |[noulith](https://github.com/betaveros/noulith)|*slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it|
 |[oak](https://github.com/thesephist/oak)|An expressive, simple, dynamic programming language.|
