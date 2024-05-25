@@ -2,6 +2,8 @@
 
 This is a list of open source computer languages.
 
+This list exists because I don't want to clog my list of starred projects with every language that I find interesting.
+
 Pull requests welcome.
 
 ## Configuration Languages
@@ -16,12 +18,14 @@ Pull requests welcome.
 |Repository|Description|
 |-|-|
 |[cue](https://github.com/cue-lang/cue)|The new home of the CUE language! Validate and define text-based and dynamic configuration|
+|[d2](https://github.com/terrastruct/d2)|D2 is a modern diagram scripting language that turns text to diagrams.|
 |[dte](https://github.com/mvrozanti/dte)|date and time processing language|
 
 ## Programming Languages
 
 |Repository|Description|
 |-|-|
+|[Amber](https://github.com/Ph0enixKM/Amber)|Amber the programming language compiled to bash|
 |[BQN](https://github.com/mlochbaum/BQN)|An APL-like programming language. Self-hosted!|
 |[Halide](https://github.com/halide/Halide)|a language for fast, portable data-parallel computation|
 |[Idris2](https://github.com/idris-lang/Idris2)|A purely functional programming language with first class types|
