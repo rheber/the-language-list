@@ -30,6 +30,7 @@ Pull requests welcome.
 |[Halide](https://github.com/halide/Halide)|a language for fast, portable data-parallel computation|
 |[Idris2](https://github.com/idris-lang/Idris2)|A purely functional programming language with first class types|
 |[Kind](https://github.com/uwu-tech/Kind)|A modern proof language|
+|[LO](https://github.com/glebbash/LO)|LO - small programming language targeting WASM that aims to be as simple as possible|
 |[Nim](https://github.com/nim-lang/Nim)|Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).|
 |[Odin](https://github.com/odin-lang/Odin)|Odin Programming Language|
 |[P](https://github.com/p-org/P)|The P programming language.|
@@ -43,9 +44,11 @@ Pull requests welcome.
 |[austral](https://github.com/austral/austral)|Systems language with linear types and capability-based security.|
 |[bagel](https://github.com/brundonsmith/bagel)|A programming language designed for JavaScript programmers to write reactive UIs, using a paradigm where stateful procedures and pure functions are mutually exclusive categories.|
 |[ballerina-lang](https://github.com/ballerina-platform/ballerina-lang)|The Ballerina Programming Language|
+|[c3c](https://github.com/c3lang/c3c)|Compiler for the C3 language|
 |[carbon-lang](https://github.com/carbon-language/carbon-lang)|Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)|
 |[chapel](https://github.com/chapel-lang/chapel)|a Productive Parallel Programming Language|
 |[ciao](https://github.com/ciao-lang/ciao)|Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.|
+|[cognate](https://github.com/cognate-lang/cognate)|A human readable quasi-concatenative programming language|
 |[crow](https://github.com/andy-hanson/crow)|Crow programming language|
 |[crumb](https://github.com/liam-ilan/crumb)|The Crumb Programming Language|
 |[dafny](https://github.com/dafny-lang/dafny)|Dafny is a verification-aware programming language|
@@ -82,6 +85,7 @@ Pull requests welcome.
 |[reason](https://github.com/reasonml/reason)|Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems|
 |[red](https://github.com/red/red)|Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!|
 |[roc](https://github.com/roc-lang/roc)|Roc is a language for making delightful software.|
+|[rye](https://github.com/refaktor/rye)|homoiconic dynamic programming language with some new ideas|
 |[scopes](https://hg.sr.ht/~duangle/scopes)|The Scopes Programming Language & Compiler Infrastructure|
 |[shardscript](https://github.com/shardscript/shardscript)|A language for cloud functions|
 |[skip](https://github.com/skiplang/skip)|A programming language to skip the things you have already computed|
