@@ -13,12 +13,18 @@ Pull requests welcome.
 |[dhall-lang](https://github.com/dhall-lang/dhall-lang)|Maintainable configuration files|
 |[virgo](https://github.com/r2d4/virgo)|Graph-based Declarative Configuration Language|
 
+## Diagram Languages
+
+|Repository|Description|
+|-|-|
+|[d2](https://github.com/terrastruct/d2)|D2 is a modern diagram scripting language that turns text to diagrams.|
+|[penrose](https://github.com/penrose/penrose)|Create beautiful diagrams just by typing notation in plain text.|
+
 ## Miscellaneous Languages
 
 |Repository|Description|
 |-|-|
 |[cue](https://github.com/cue-lang/cue)|The new home of the CUE language! Validate and define text-based and dynamic configuration|
-|[d2](https://github.com/terrastruct/d2)|D2 is a modern diagram scripting language that turns text to diagrams.|
 |[dte](https://github.com/mvrozanti/dte)|date and time processing language|
 
 ## Programming Languages
