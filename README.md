@@ -62,6 +62,7 @@ Pull requests welcome.
 |[datafun](https://github.com/rntz/datafun)|Research on integrating datalog & lambda calculus via monotonicity types|
 |[dex-lang](https://github.com/google-research/dex-lang)|Research language for array processing in the Haskell/ML family|
 |[duckscript](https://github.com/sagiegurari/duckscript)|Simple, extendable and embeddable scripting language.|
+|[eyg](https://github.com/CrowdHailer/eyg-lang)|Experiments in building "better" languages and tools; for some measure of better.|
 |[flix](https://github.com/flix/flix)|The Flix Programming Language|
 |[gleam](https://github.com/gleam-lang/gleam)|A friendly language for building type-safe, scalable systems!|
 |[grace](https://github.com/Gabriel439/grace)|A ready-to-fork interpreted functional language with type inference|
