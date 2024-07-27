@@ -94,6 +94,7 @@ Pull requests welcome.
 |[roc](https://github.com/roc-lang/roc)|Roc is a language for making delightful software.|
 |[rye](https://github.com/refaktor/rye)|homoiconic dynamic programming language with some new ideas|
 |[scopes](https://hg.sr.ht/~duangle/scopes)|The Scopes Programming Language & Compiler Infrastructure|
+|[scrapscript](https://github.com/tekknolagi/scrapscript)|A functional, content-addressable programming language.|
 |[shardscript](https://github.com/shardscript/shardscript)|A language for cloud functions|
 |[skip](https://github.com/skiplang/skip)|A programming language to skip the things you have already computed|
 |[tao](https://github.com/zesterer/tao)|A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.|
