@@ -79,6 +79,7 @@ Pull requests welcome.
 |[lean4](https://github.com/leanprover/lean4)|Lean 4 programming language and theorem prover|
 |[lobster](https://github.com/aardappel/lobster)|The Lobster Programming Language|
 |[mercury](https://github.com/Mercury-Language/mercury)|The Mercury logic programming system.|
+|[mojo](https://github.com/modularml/mojo)|The Mojo Programming Language|
 |[mun](https://github.com/mun-lang/mun)|Source code for the Mun language and runtime.|
 |[neat](https://github.com/Neat-Lang/neat)|The Neat Language compiler. Early beta?|
 |[noulith](https://github.com/betaveros/noulith)|*slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it|
