@@ -88,6 +88,7 @@ Pull requests welcome.
 |[opalang](https://github.com/MLstate/opalang/)|The Opa Language for Web Application Development|
 |[pen](https://github.com/pen-lang/pen)|The programming language for scalable development|
 |[ponyc](https://github.com/ponylang/ponyc)|Pony is an open-source, actor-model, capabilities-secure, high performance programming language|
+|[pure-lang](https://github.com/agraef/pure-lang)|Pure programming language|
 |[purescript](https://github.com/purescript/purescript)|A strongly-typed language that compiles to JavaScript|
 |[pyret-lang](https://github.com/brownplt/pyret-lang)|The Pyret language.|
 |[reason](https://github.com/reasonml/reason)|Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems|
