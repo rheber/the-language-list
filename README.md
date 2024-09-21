@@ -105,6 +105,7 @@ Pull requests welcome.
 |[urweb](https://github.com/urweb/urweb)|The Ur/Web programming language|
 |[v](https://github.com/vlang/v)|Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io|
 |[val](https://github.com/val-lang/val)|The val compiler|
+|[vapour](https://github.com/vapourlang/vapour)|Typed superset of R|
 |[wasp](https://github.com/wasp-lang/wasp)|A programming language that understands what a web app is.|
 |[wren](https://github.com/wren-lang/wren)|The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.|
 |[xs](https://github.com/smabie/xs)|concatenative array language inspired by kdb/+q|
