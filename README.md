@@ -47,6 +47,7 @@ Pull requests welcome.
 |[Yaksha](https://github.com/YakshaLang/Yaksha)|Yaksha Programming Language (WIP)|
 |[abs](https://github.com/abs-lang/abs)|Home of the ABS programming language: the joy of shell scripting.|
 |[ante](https://github.com/jfecher/ante)|A safe, easy systems language|
+|[arturo](https://github.com/arturo-lang/arturo)|Simple, expressive & portable programming language for efficient scripting|
 |[austral](https://github.com/austral/austral)|Systems language with linear types and capability-based security.|
 |[bagel](https://github.com/brundonsmith/bagel)|A programming language designed for JavaScript programmers to write reactive UIs, using a paradigm where stateful procedures and pure functions are mutually exclusive categories.|
 |[ballerina-lang](https://github.com/ballerina-platform/ballerina-lang)|The Ballerina Programming Language|
@@ -107,6 +108,7 @@ Pull requests welcome.
 |[val](https://github.com/val-lang/val)|The val compiler|
 |[vapour](https://github.com/vapourlang/vapour)|Typed superset of R|
 |[wasp](https://github.com/wasp-lang/wasp)|A programming language that understands what a web app is.|
+|[wenyan](https://github.com/wenyan-lang/wenyan)|文言文編程語言 A programming language for the ancient Chinese.|
 |[wren](https://github.com/wren-lang/wren)|The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.|
 |[xs](https://github.com/smabie/xs)|concatenative array language inspired by kdb/+q|
 |[zig](https://github.com/ziglang/zig)|General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.|
