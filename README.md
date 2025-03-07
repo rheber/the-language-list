@@ -63,6 +63,7 @@ Pull requests welcome.
 |[datafun](https://github.com/rntz/datafun)|Research on integrating datalog & lambda calculus via monotonicity types|
 |[dex-lang](https://github.com/google-research/dex-lang)|Research language for array processing in the Haskell/ML family|
 |[duckscript](https://github.com/sagiegurari/duckscript)|Simple, extendable and embeddable scripting language.|
+|[effekt](https://github.com/effekt-lang/effekt)|A language with lexical effect handlers and lightweight effect polymorphism|
 |[eyg](https://github.com/CrowdHailer/eyg-lang)|Experiments in building "better" languages and tools; for some measure of better.|
 |[flix](https://github.com/flix/flix)|The Flix Programming Language|
 |[gleam](https://github.com/gleam-lang/gleam)|A friendly language for building type-safe, scalable systems!|
@@ -75,6 +76,7 @@ Pull requests welcome.
 |[io](https://github.com/IoLanguage/io)|Io programming language. Inspired by Self, Smalltalk and LISP.|
 |[jakt](https://github.com/SerenityOS/jakt)|The Jakt Programming Language|
 |[janet](https://github.com/janet-lang/janet)|A dynamic language and bytecode vm|
+|[jillc](https://github.com/mpatajac/jillc)|Compiler for the Jill programming language (an alternative to Jack from the nand2tetris course)|
 |[kitten](https://github.com/evincarofautumn/kitten)|A statically typed concatenative systems programming language.|
 |[koka](https://github.com/koka-lang/koka)|Koka language compiler and interpreter|
 |[lean4](https://github.com/leanprover/lean4)|Lean 4 programming language and theorem prover|
@@ -83,10 +85,12 @@ Pull requests welcome.
 |[mojo](https://github.com/modularml/mojo)|The Mojo Programming Language|
 |[mun](https://github.com/mun-lang/mun)|Source code for the Mun language and runtime.|
 |[neat](https://github.com/Neat-Lang/neat)|The Neat Language compiler. Early beta?|
+|[neut](https://github.com/vekatze/neut)|A programming language with static memory management based on λ-calculus|
 |[noulith](https://github.com/betaveros/noulith)|*slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it|
 |[oak](https://github.com/thesephist/oak)|An expressive, simple, dynamic programming language.|
 |[onyx](https://github.com/onyx-lang/onyx)|A modern language for WebAssembly.|
 |[opalang](https://github.com/MLstate/opalang/)|The Opa Language for Web Application Development|
+|[par-lang](https://github.com/faiface/par-lang)|Toy process language with an interactive playground for exploring concurrency|
 |[pen](https://github.com/pen-lang/pen)|The programming language for scalable development|
 |[ponyc](https://github.com/ponylang/ponyc)|Pony is an open-source, actor-model, capabilities-secure, high performance programming language|
 |[pure-lang](https://github.com/agraef/pure-lang)|Pure programming language|
